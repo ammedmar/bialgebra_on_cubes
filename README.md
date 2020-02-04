@@ -1,3 +1,3 @@
 # Algebraic E_infinity bialgebra on cubes
 
-In this notebook we implement natural E_infinity bialgebra structures on the chains of standard cubes using the finitely presented E_infinity prop of [[1]](https://arxiv.org/abs/1808.00854). These natural bialgebras induce an E-infinity coalgebra structure on the chains of any cubical set.
+In this notebook we implement a natural $E_\infty$-bialgebra structures on the chains of the standard infinite cube using the finitely presented $E_\infty$-prop of [[1]](https://arxiv.org/abs/1808.00854). This natural bialgebra induces an $E_\infty$-algebra structure on the cochains of any cubical set.
